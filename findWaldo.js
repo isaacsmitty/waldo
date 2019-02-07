@@ -15,4 +15,4 @@ function actionWhenFound(agg) {
 //   console.log('yah!')
 //}
 
-findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound;
+findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
